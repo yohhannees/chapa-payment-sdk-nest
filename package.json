@@ -19,12 +19,16 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
+    "@eslint/config-array": "^0.18.0",
+    "@eslint/object-schema": "^2.1.4",
     "@nestjs/axios": "^3.0.2",
     "@nestjs/common": "^10.0.0",
     "@nestjs/config": "^3.2.3",
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
+    "lru-cache": "^11.0.0",
     "reflect-metadata": "^0.2.0",
+    "rimraf": "^4.4.1",
     "rxjs": "^7.8.1"
   },
   "devDependencies": {
