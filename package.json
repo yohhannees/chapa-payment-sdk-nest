@@ -1,6 +1,6 @@
 {
   "name": "chapa-payment-sdk-nest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A NestJS SDK for integrating with the Chapa.co payment system.",
   "author": "Yohannes Getachew , Github:yohhannees,Gmail:yohannesgetachewerieso@gmail.com",
   "license": "MIT",
